@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "28384114568",
+    "firebase_url": "https://nuchat-2a436.firebaseio.com",
+    "project_id": "nuchat-2a436",
+    "storage_bucket": "nuchat-2a436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28384114568:android:c779efd34c1af57e",
+        "android_client_info": {
+          "package_name": "com.nutech.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28384114568-oagr5bfpbott2pofdn4fodhq9mbbs0fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nutech.chat",
+            "certificate_hash": "B1C9B2A449EF25C5FDEF12EECDC8F116D0E6C308"
+          }
+        },
+        {
+          "client_id": "28384114568-5es8oo5fpdi6h65fj63kdjp88tag6pkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3w4xVAJw1QcwtL0A3F8Q0Fo2r2pbUjVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28384114568-5es8oo5fpdi6h65fj63kdjp88tag6pkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
